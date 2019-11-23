@@ -30,7 +30,7 @@ function createTable(tableData) {
                 <td>${d.comments}</td>`);
     
     // More modular way to create the table in HTML below
-        // Object.entries(load_data).forEach(function([value]) {
+        // Object.entries(load_data).forEach(function([key, value]) {
         //     tBody.append("td").text(value);
         // })
     // });
