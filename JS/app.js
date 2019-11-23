@@ -16,6 +16,10 @@ d3.selectAll("#filter-btn").on("click", searchData);
 
 // Function to create a table to display on the webpage
 function createTable(tableData) {
+    // Clears previous table before adding a new one
+    d3.select("tbody")
+    .html("")
+
     d3.select("tbody")
     .selectAll("tr")
     .data(tableData)
