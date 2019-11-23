@@ -20,6 +20,7 @@ function createTable(tableData) {
     d3.select("tbody")
     .html("")
 
+    // Creates the new table based on the input parameter
     d3.select("tbody")
     .selectAll("tr")
     .data(tableData)
