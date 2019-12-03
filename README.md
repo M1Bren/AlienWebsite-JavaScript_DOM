@@ -1,6 +1,6 @@
 # AlienWebsite-JavaScript_DOM
 
-## UFO Finder website link:  https://m1bren.github.io/UFOWebsite-JavaScript_DOM/
+## [Click here to access the UFO Finder Website link](https://m1bren.github.io/UFOWebsite-JavaScript_DOM/)
 
 ## Content
 - **Index.html:** Webpage formatting file where users can enter in a date of their choice to retrieve corresponding UFO siting information
