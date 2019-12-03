@@ -1,4 +1,4 @@
-# AlienWebsite-JavaScript_DOM
+# AlienWebsite-JavaScript-DOM
 
 ## [Click here to access the UFO Finder Website link](https://m1bren.github.io/UFOWebsite-JavaScript_DOM/)
 
